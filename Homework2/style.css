@@ -110,6 +110,7 @@ p {
     background-color: rgb(192, 163, 117);
     font-family: Rubik;
     font-weight: 500px;
+    margin-top: 10px;
 }
 
 .jumbotron .btn-primary {
